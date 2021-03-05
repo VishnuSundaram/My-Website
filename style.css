@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+#J.A.R.V.I.S{
+    width: 100%;
+    height: 800px;
+    background-color:lightcoral;
+
+}
